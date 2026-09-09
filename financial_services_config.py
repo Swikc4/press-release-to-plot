@@ -1,0 +1,55 @@
+"""Final Financial Services configuration used by Team 11 for MP03.
+
+Swikriti KC served as the Financial Services Pipeline Lead.
+"""
+
+FINANCIAL_SERVICES_TICKERS = [
+    "JPM", "BAC", "WFC", "C",
+    "PNC", "USB", "TFC",
+    "BLK", "BX",
+    "MET", "PRU",
+    "V", "MA", "AXP",
+]
+
+FINANCIAL_SERVICES_PHRASES = [
+    '"new branch"',
+    '"branch opening"',
+    '"branch closure"',
+    '"branch closing"',
+    '"branch consolidation"',
+    '"regional office"',
+    '"office closure"',
+    '"operations center"',
+    '"data center"',
+    '"new location"',
+    '"branch relocation"',
+    '"relocated branch"',
+    '"relocation of services"',
+    '"service center"',
+    '"customer service center"',
+    '"contact center"',
+    '"call center expansion"',
+    '"call center closure"',
+    '"operational hub"',
+    '"corporate headquarters"',
+    '"headquarters relocation"',
+    '"administrative office"',
+    '"satellite office"',
+    '"field office"',
+    '"facility expansion"',
+    '"facility upgrade"',
+    '"facility investment"',
+    '"office expansion"',
+    '"office move"',
+    '"leased space"',
+    '"new facility"',
+    '"property acquisition"',
+    '"real estate transaction"',
+    '"real estate sale"',
+    '"site redevelopment"',
+    '"infrastructure investment"',
+    '"operations expansion"',
+    '"business expansion"',
+    '"strategic footprint"',
+    '"market expansion"',
+]
