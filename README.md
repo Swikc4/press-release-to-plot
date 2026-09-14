@@ -1,4 +1,4 @@
-# Press Release to Plot Industry Comparison
+# API-Based Industry Location Analysis
 
 Academic team project completed for CIS 3120 Programming for Analytics at Baruch College in Spring 2026.
 
