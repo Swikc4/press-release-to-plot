@@ -30,3 +30,7 @@ I link to the full team files rather than presenting my teammates' work as solel
 ## Tools and Skills
 
 Python, REST APIs, SEC EDGAR, pandas, Folium, data validation, search logic, LLM assisted classification, structured JSON, Git and GitHub
+
+## How to Run
+
+`financial_services_config.py` is a configuration module rather than a standalone script. It is imported by the Team 11 analysis pipeline (linked above) to set the Financial Services ticker list and SEC EDGAR search phrases. To see the pipeline in action, open the Team 11 notebook and Folium map in the team repository linked above. The pipeline requires Python 3 with pandas, requests, and Folium.
