@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">Press Release to Plot</h3>
   <p align="center">
-    REST API pipeline that finds and maps location-related business events in SEC EDGAR filings - a CIS 3120 team project at Baruch College
+    REST API pipeline that finds and maps location-related business events in SEC EDGAR filings, a CIS 3120 team project at Baruch College
     <br />
     <a href="https://github.com/Swikc4/press-release-to-plot"><strong>Explore the repo »</strong></a>
   </p>
