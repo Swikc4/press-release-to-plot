@@ -20,7 +20,6 @@
     <li><a href="#what-the-team-found">What the Team Found</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#full-team-submission">Full Team Submission</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -73,19 +72,8 @@ The complete Team 11 notebook and interactive map are preserved in our team repo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-Swikriti KC - [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
-
-Project Link: [https://github.com/Swikc4/press-release-to-plot](https://github.com/Swikc4/press-release-to-plot)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Acknowledgments
 
 * CIS 3120 Programming for Analytics, Baruch College (Zicklin School of Business)
 * SEC EDGAR (U.S. Securities and Exchange Commission)
 * Team 11: Imran Aslam and Gabriel Asimakopoulos
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
